@@ -1,0 +1,91 @@
+body {
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+
+header {
+  border-bottom: #0804ee 2px solid;
+  margin-bottom: 20px;
+  color: #0804ee;
+  position: relative;
+}
+
+.navbartest {
+  border-bottom: 2px solid #0804ee;
+  width: 100%;
+
+}
+
+.navbar-nav {
+  margin: 0 0 0 60%;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    color: #0804ee;
+    background-color: black;
+  }
+}
+
+.sigmaPic {
+  width: 300px;
+  height: 100px;
+  position: relative;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  position: relative;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+h1 {
+  color: #0804ee;
+  padding: 25px;
+  margin-left: 175px;
+}
+
+h3 {
+  text-align: center;
+  position: relative;
+  width: 250px;
+  height: 40px;
+  background-color: #0804ee;
+  color: white;
+  margin-top: -110px;
+  margin-bottom: 80px;
+}
+h4 {
+  color: #0804ee;
+  border-bottom: 2px solid #0804ee ;
+}
+
+li a:hover {
+  background-color: #0804ee;
+  color: white;
+}
+
+label {
+  color: #0804ee;
+}
+
+.container {
+  margin-top: 20px;
+  background-color: white;
+}
+
+.footer {
+  background-color: rgb(128, 128, 128);
+  border-top: 5px solid #0804ee;
+  height: 50px;
+  text-align: center;
+  padding: 0;
+  line-height: 50px;
+}
+
+.navbar-brand {
+  color: lightgray;
+}
