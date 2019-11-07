@@ -44,8 +44,12 @@ img {
   margin-bottom: 40px;
   text-align: center;
 }
-
-h1 , h2 {
+h2 {
+  color: #0804ee;
+  padding: 25px;
+  margin-left: 175px;
+}
+h1 {
   color: #0804ee;
   padding: 25px;
   margin-left: 175px;
