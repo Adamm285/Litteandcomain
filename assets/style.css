@@ -18,6 +18,9 @@ header {
 .navbar-nav {
   margin: 0 0 0 60%;
 }
+.bio-image {
+  margin-top: -20px;
+}
 
 @media screen and (max-width: 600px) {
   body {
@@ -42,7 +45,7 @@ img {
   text-align: center;
 }
 
-h1 {
+h1 , h2 {
   color: #0804ee;
   padding: 25px;
   margin-left: 175px;
