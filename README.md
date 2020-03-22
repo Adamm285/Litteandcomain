@@ -1,13 +1,12 @@
 # Little & Co Inc Website
 
-![Project Image](project-image-url)
+![Project Image](https://i0.wp.com/littlecopackaging.com/wp-content/uploads/2019/11/Little-Co-Building-1200px.jpg?w=1200&ssl=1)
 
-> This is a ReadMe template to help save you time and effort.
+> Wholesale packaging suppliers website.
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
