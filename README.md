@@ -41,9 +41,9 @@ Sales Funnel built in combination with Facebook ads to move potential customers 
 
 #### Screen Shots
 
-- ![landing page](./assets/images/Capture1.PNG)
-- ![landing page](./assets/images/Capture2.PNG)
-- ![landing page](./assets/images/Capture3.PNG)
+![landing page](./assets/images/Capture1.PNG)
+![landing page](./assets/images/Capture2.PNG)
+![landing page](./assets/images/Capture3.PNG)
 
 [Back To The Top](#little-&-co-inc-website)
 
