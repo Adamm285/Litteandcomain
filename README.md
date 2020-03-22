@@ -12,6 +12,7 @@
 - [How To Use](#how-to-use)
 - [License](#license)
 - [Author Info](#author-info)
+- [Screen Shots](#screen-shots)
 
 ---
 
@@ -33,6 +34,16 @@ Sales Funnel built in combination with Facebook ads to move potential customers 
 #### Installation
 
 - Click the Live link [here](https://adamm285.github.io/Littleandcomain/)
+
+[Back To The Top](#little-&-co-inc-website)
+
+---
+
+#### Screen Shots
+
+- ![landing page](./assets/images/Capture1.PNG)
+- ![landing page](./assets/images/Capture2.PNG)
+- ![landing page](./assets/images/Capture3.PNG)
 
 [Back To The Top](#little-&-co-inc-website)
 
