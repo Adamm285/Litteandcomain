@@ -18,7 +18,7 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Sales Funnel built in combination with Facebook ads to move potential customers to make a phone call
+Sales Funnel built in combination with Facebook ads to move potential customers to make a phone calls
 
 #### Technologies
 
